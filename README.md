@@ -7,8 +7,10 @@
 
 > [!NOTE]
 > This document covers the **graphical interface only**. It is a complete, control‑by‑control reference for the desktop app — every checkbox, field, dropdown and button is documented below. Command‑line usage, installation and environment setup are intentionally out of scope here.
+> 
+<img width="1442" height="932" alt="image" src="https://github.com/user-attachments/assets/d0aa41ac-3cc1-4db7-aec3-8ed067366f77" />
 
-<img width="1442" height="932" alt="image" src="https://github.com/user-attachments/assets/b45574c8-acfb-4d48-8eb4-fb2c54880af7" />
+
 
 ---
 
