@@ -1,6 +1,6 @@
 # 1‑Click SeedVR2.5 — GUI Reference Guide
 
-> **Version 1.9.54 Beta** · A high‑performance AI video restoration GUI built on the ByteDance **SeedVR2** architecture.
+> **Version 1.9.60 Beta** · A high‑performance AI video restoration GUI built on the ByteDance **SeedVR2** architecture.
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-naxci1%2F1Click__SeedVR2.5-black)](https://github.com/naxci1/1Click_SeedVR2.5)
