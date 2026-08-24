@@ -1,6 +1,8 @@
 # 1‑Click SeedVR2.5 — GUI Reference Guide
 
-> **Version 1.9.60 Beta** · A high‑performance AI video restoration GUI built on the ByteDance **SeedVR2** architecture.
+> · A high‑performance AI video restoration GUI built on the ByteDance **SeedVR2** architecture.
+>
+> ** Download link:** https://github.com/naxci1/1Click_SeedVR2.5/releases
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-naxci1%2F1Click__SeedVR2.5-black)](https://github.com/naxci1/1Click_SeedVR2.5)
@@ -8,7 +10,8 @@
 > [!NOTE]
 > This document covers the **graphical interface only**. It is a complete, control‑by‑control reference for the desktop app — every checkbox, field, dropdown and button is documented below. Command‑line usage, installation and environment setup are intentionally out of scope here.
 > 
-<img width="1442" height="932" alt="image" src="https://github.com/user-attachments/assets/d0aa41ac-3cc1-4db7-aec3-8ed067366f77" />
+<img width="1442" height="932" alt="image" src="https://github.com/user-attachments/assets/58bc8c55-e2d2-4bc7-887e-3af0186eb633" />
+
 
 
 
