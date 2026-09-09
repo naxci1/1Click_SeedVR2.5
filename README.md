@@ -1,4 +1,4 @@
-# 1‑Click SeedVR2.5 — GUI Reference Guide
+# 1Click SeedVR2.5 — GUI Reference Guide
 
 > · A high‑performance AI video restoration GUI built on the ByteDance **SeedVR2** architecture.
 >
@@ -19,7 +19,7 @@
 
 ## 1. Project Overview & Key Features
 
-**1‑Click SeedVR2.5** is a high‑performance AI video‑restoration GUI optimized for the ByteDance **SeedVR2** diffusion‑transformer (DiT) architecture. It wraps the heavyweight upscaling engine in a fully visual workflow so that restoring and upscaling footage — from a single still frame to multi‑hour 20th‑century film archives — is driven entirely through panels, dropdowns and a live comparison viewer.
+**1Click SeedVR2.5** is a high‑performance AI video‑restoration GUI optimized for the ByteDance **SeedVR2** diffusion‑transformer (DiT) architecture. It wraps the heavyweight upscaling engine in a fully visual workflow so that restoring and upscaling footage — from a single still frame to multi‑hour 20th‑century film archives — is driven entirely through panels, dropdowns and a live comparison viewer.
 
 ### Key Features
 
