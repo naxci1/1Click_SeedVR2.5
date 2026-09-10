@@ -2,7 +2,8 @@
 
 > · A high‑performance AI video restoration GUI built on the ByteDance **SeedVR2** architecture.
 >
-> ** Download link:** https://github.com/naxci1/1Click_SeedVR2.5/releases
+> **⬇️ Download:** [1-Click SeedVR2.5 v1.9.68b](https://github.com/naxci1/1Click_SeedVR2.5/releases/download/v.1.9.68b/1Click_SeedVR2.5_v1.9.68b_setup.exe)  
+> **📦 All Releases:** [GitHub Releases](https://github.com/naxci1/1Click_SeedVR2.5/releases)
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-naxci1%2F1Click__SeedVR2.5-black)](https://github.com/naxci1/1Click_SeedVR2.5)
