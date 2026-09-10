@@ -7,6 +7,12 @@
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-naxci1%2F1Click__SeedVR2.5-black)](https://github.com/naxci1/1Click_SeedVR2.5)
 
+## 🎬 Demo
+
+[![1-Click SeedVR2.5 Demo](https://img.youtube.com/vi/7yFCOZZyWO4/maxresdefault.jpg)](https://www.youtube.com/watch?v=7yFCOZZyWO4)
+
+[▶️ Watch on YouTube](https://www.youtube.com/watch?v=7yFCOZZyWO4)
+
 > [!NOTE]
 > This document covers the **graphical interface only**. It is a complete, control‑by‑control reference for the desktop app — every checkbox, field, dropdown and button is documented below. Command‑line usage, installation and environment setup are intentionally out of scope here.
 > 
