@@ -371,3 +371,6 @@ Apache License 2.0 — see [LICENSE](LICENSE).
 
 - 🌟 [GitHub Repository](https://github.com/naxci1/1Click_SeedVR2.5)
 - 🔬 [Original SeedVR2 Project](https://github.com/ByteDance-Seed/SeedVR)
+
+<img width="160" height="82" alt="ishtirakci" src="https://github.com/user-attachments/assets/49bb9b66-c4f1-4cec-a437-af5f102fc42f" />
+
